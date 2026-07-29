@@ -216,25 +216,27 @@ O acesso à planilha que serve como base de dados/base de referência está disp
 <!-- Substitua os placeholders abaixo pelos prints da aplicação -->
 
 ### Tela de Login
-`[ inserir print aqui ]`
+<img width="1889" height="865" alt="image" src="https://github.com/user-attachments/assets/d0c95564-b711-4e03-b736-246ece6642ef" />
+
 
 ### Dashboard
-`[ inserir print aqui ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb6dec74-0d7a-4308-bc8f-7d8d42450178" />
+
 
 ### Upload e Timeline de Processamento
-`[ inserir print aqui ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d178bf04-bd28-4a9a-9186-79f8fd3b8d7d" />
+
 
 ### Detalhes da Análise (Drawer de Divergências)
-`[ inserir print aqui ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d302f562-22d5-47b6-b239-8a9bb4969e4f" />
+
 
 ### Analytics
-`[ inserir print aqui ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aad2d3a1-95b4-43ab-a084-4917bc4fc75b" />
+
 
 ### Histórico de Análises
-`[ inserir print aqui ]`
-
-### Relatório Exportado (PDF)
-`[ inserir print aqui ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a4e9b11-3b19-4019-abdc-2ecd2803c702" />
 
 ---
 
