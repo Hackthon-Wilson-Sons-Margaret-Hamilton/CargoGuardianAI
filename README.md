@@ -195,7 +195,7 @@ Toda a lógica de comparação, cálculo de divergências e KPIs é executada pe
 
 ## Como Acessar
 
-**Aplicação:** [https://testehackathon.lovable.app/](https://cargoguardian.lovable.app/)
+**Aplicação:** [cargoguardian.lovable.app/](https://cargoguardian.lovable.app/)
 
 Para a banca avaliadora testar a aplicação, um usuário de teste está disponível:
 
