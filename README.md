@@ -14,7 +14,7 @@
 ![Kodie Academy](https://img.shields.io/badge/Kodie%20Academy-x%20Wilson%20Sons-003366?style=flat-square)
 ![Julho 2026](https://img.shields.io/badge/Julho-2026-orange?style=flat-square)
 
-**🔗 Aplicação:** [testehackathon.lovable.app](https://testehackathon.lovable.app/)
+**🔗 Aplicação:** [testehackathon.lovable.app](https://cargoguardian.lovable.app/)
 
 </div>
 
@@ -195,7 +195,7 @@ Toda a lógica de comparação, cálculo de divergências e KPIs é executada pe
 
 ## Como Acessar
 
-**Aplicação:** [https://testehackathon.lovable.app/](https://testehackathon.lovable.app/)
+**Aplicação:** [https://testehackathon.lovable.app/](https://cargoguardian.lovable.app/)
 
 Para a banca avaliadora testar a aplicação, um usuário de teste está disponível:
 
