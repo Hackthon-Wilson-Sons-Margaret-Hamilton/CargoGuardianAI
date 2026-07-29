@@ -14,7 +14,7 @@
 ![Kodie Academy](https://img.shields.io/badge/Kodie%20Academy-x%20Wilson%20Sons-003366?style=flat-square)
 ![Julho 2026](https://img.shields.io/badge/Julho-2026-orange?style=flat-square)
 
-**🔗 Aplicação:** [cargoguardian.lovable.app/](https://cargoguardian.lovable.app/)
+**🔗 Aplicação:** <a href="https://cargoguardian.lovable.app/" target="_blank">cargoguardian.lovable.app/</a>
 
 </div>
 
